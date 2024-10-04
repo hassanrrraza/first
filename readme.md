@@ -1,6 +1,6 @@
-# Project Title
+# First Sample Project
 
-A brief description of your project, what it does, and its purpose.
+This is my testing project which i have pushed to github from visual studio code.
 
 ## Features
 - Feature 1: Brief description of the first feature.
